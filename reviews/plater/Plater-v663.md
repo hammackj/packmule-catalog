@@ -112,3 +112,7 @@ Checks completed (paths below are relative to `builds/Plater-v663/Plater/`):
 **Concern:** Imported scripts execute Lua, so this assessment cannot cover subsequently imported content. A complete source review is still needed before issuing a first-review PASS.
 
 VERDICT: UNSURE
+
+## Maintainer sign-off
+
+Passed by hammackj on 2026-11-09 (Claude: pass, Codex: unsure): Codex found nothing malicious but didn't finish reading every file of this large addon; Claude passed it. Plater runs scripts players import, which a review of the addon itself can't cover.
