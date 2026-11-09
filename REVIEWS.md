@@ -70,6 +70,9 @@ report before committing either way. `--dry-run` prepares everything and
 prints the prompt without running a reviewer; `--keep` leaves the unpacked
 code in place to look at.
 
+To read every review in one page (newest per addon, anything that needs a
+look first): `python3 scripts/report.py --open`.
+
 ## Signing off
 
 When a reviewer is unsure or fails a build for something that isn't
