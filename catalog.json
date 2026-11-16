@@ -19,6 +19,16 @@
       },
       "reviews": [
         {
+          "tag": "v0.2.8",
+          "sha256": [
+            "3d3bfc4cfe48906bb8aa9787d59e4f4445bab6c3510e50d8d0c3a8ca4d6c114f"
+          ],
+          "date": "2026-11-16",
+          "claude": "pass",
+          "codex": "pass",
+          "report": "reviews/rucksack/v0.2.8.md"
+        },
+        {
           "tag": "v0.2.4",
           "sha256": [
             "381ecbbcf1362dabe7767bdefc40efa7cbecb7b76d03cee38599341685866963"
